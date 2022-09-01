@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+
+form.formulario {
+    align-content: center;
+    width: 40;
+    margin: 40px;
+    background-color: rgba(0, 255, 255, 0.315);
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.contenedor {
+    float: inherit;
+    background-color: rgba(138, 138, 200, 0.492);
+    padding: 40px;
+    max-width: 600px;
+    margin: 40px auto;
+    /* border-radius: $br;
+    /* box-shadow: 0 4px 10px 4px rgba($form-bg,.3);*/
+}
+
+input {
+    font-size: 12px;
+    display: block;
+    width: 90%;
+    height: 100%;
+    padding: 5px 10px;
+    background: none;
+    background-image: none;
+    border-radius: 12px;
+    border-color: aquamarine;
+
+}
